@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-sort.iml" filepath="$PROJECT_DIR$/ch01-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch02-digui/ch02-digui.iml" filepath="$PROJECT_DIR$/../ch02-digui/ch02-digui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch03-tongpaixu/ch03-tongpaixu.iml" filepath="$PROJECT_DIR$/../ch03-tongpaixu/ch03-tongpaixu.iml" />
+    </modules>
+  </component>
+</project>
